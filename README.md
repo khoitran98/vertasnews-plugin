@@ -1,0 +1,2 @@
+# Plugin for Vertas News
+
